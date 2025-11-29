@@ -2,11 +2,11 @@
 ## Project Objective
 The task here is to analyze this dataset to uncover key insights related to sales trends, customer behavior, and product performance to increase the overall sales for FNP(Ferns and Petals)
 ## Dataset used
-- <a href = "https://github.com/PinkiMurmu/FNP---Excel-Project/blob/main/customers.csv">Customers</a>
-- <a href = "https://github.com/PinkiMurmu/FNP---Excel-Project/blob/main/orders.csv">Orders</a>
-- <a href = "https://github.com/PinkiMurmu/FNP---Excel-Project/blob/main/products.csv">Products</a>
+- <a href = "https://github.com/PinkiMurmu/FNP---Excel-Project/blob/main/Datasets.xlsx">Customers</a>
 
 - You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The dataset contains details about the products, orders, customers, and relevant dates. Your task is to analyze this dataset to uncover key insights related to sales trends, customer behavior, and product performance.
+## Dashboard
+<img width="1261" height="595" alt="Dashboard" src="https://github.com/PinkiMurmu/FNP---Excel-Project/blob/main/FNP-Dashboard.png" />
 ## Key insights of the dashboard:
 - Total orders, revenue & average customer spend
 - Revenue by occasions, categories, and top products

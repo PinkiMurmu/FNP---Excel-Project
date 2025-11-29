@@ -7,6 +7,7 @@ The task here is to analyze this dataset to uncover key insights related to sale
 - You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The dataset contains details about the products, orders, customers, and relevant dates. Your task is to analyze this dataset to uncover key insights related to sales trends, customer behavior, and product performance.
 ## Dashboard
 <img width="1261" height="595" alt="Dashboard" src="https://github.com/PinkiMurmu/FNP---Excel-Project/blob/main/FNP-Dashboard.png" />
+
 ## Key insights of the dashboard
 - Total orders, revenue & average customer spend
 - Revenue by occasions, categories, and top products
